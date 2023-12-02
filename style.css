@@ -230,7 +230,7 @@ footer {
 }
 
 @media (max-width: 550px) and (max-height: 748px) {
-    .result, .summary {
+    .result, article {
         border-radius: 0;
     }
 
