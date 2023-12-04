@@ -30,8 +30,6 @@ article {
     max-width: 600px;
     min-width: 320px;
     box-shadow: 8px 12px 24px 8px hsla(225, 71%, 34%, 0.09);
-
-    /* so the two containers stack up one another when on mobile */
     display: flex;
 }
 
@@ -177,6 +175,7 @@ article {
     border: none;
     cursor: pointer;
     width: 100%;
+    font-size: 14px;
 }
 
 .continue:active, .continue:hover {
